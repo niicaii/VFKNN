@@ -8,7 +8,7 @@ knnmodel_trained.pickle
 # 2.VFKNN method：
 # main script for TPM,cell 
 code4TPMcell.sh
-# used by main
+# used by code4TPMcell.sh
 run.sh
 16S_cells_abundance_stage1.py
 16S_cells_abundance_stage2.py
