@@ -1,3 +1,10 @@
-1. KNN model file
-2. KNN train code
-3. VFKNN code
+1. KNN model file：
+knnmodel_trained.pickle
+
+2. VFKNN method：
+16S_cells_abundance_stage1.py
+16S_cells_abundance_stage2.py
+code4TPMcell.sh
+run.sh
+colnames.pickle
+VFKNN_main.py
